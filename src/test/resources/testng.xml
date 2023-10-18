@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Suite Jayjay" parallel="classes">
+<test name="Test Feature A">
+    <classes>
+        <class name="TestFeatureA"/>
+        <class name="TestFeatureB"/>
+    </classes>
+</test>
+</suite>
+
